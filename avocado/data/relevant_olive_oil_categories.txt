@@ -105,4 +105,3 @@ nl:olie
 pt:azeite-refinado
 ro:ulei-de-măsline
 ru:olive-oil-extra-virgin
-ru:португальское-оливковое-масло
